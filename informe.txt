@@ -1,1 +1,0 @@
-lo visto en la cflase anterior fue : la explicacion de lo que es las nuevas tecnologias y se vieron comandos basicos de git bash
